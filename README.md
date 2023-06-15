@@ -65,3 +65,14 @@ with open(tflite_file_path, 'wb') as f:
 # Download the TFLite file
 files.download(tflite_file_path)
  ```
+ 
+ ## Result
+### Accuracy
+Almost 100% after 100 Epochs
+
+![image](https://github.com/SehatinAja-Bangkit/SehatinAja-ML/assets/92217354/093ebdb5-6f20-439c-b80a-9f9fdbf109ab)
+
+### Loss
+Almost 0 Loss After 100 Epochs
+
+![image](https://github.com/SehatinAja-Bangkit/SehatinAja-ML/assets/92217354/78f74324-c743-454f-87aa-8f424f566a84)
